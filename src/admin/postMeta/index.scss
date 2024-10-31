@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+	--primary-color: #253b80;
+	--font-color: #3c434a;
+	--heading-color: #111827;
+	--border-color: #e0e9ec;
+	--primary-accent: #dde8ff;
+	--primary-accent-2: #eff4ff;
+}
+
+.pac-wrapper {
+    @apply rounded max-w-[725px] w-full m-auto; 
+}

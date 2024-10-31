@@ -1,0 +1,1050 @@
+# Copyright (C) 2024 Pop and Convert
+# This file is distributed under the GPL v3 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Pop and Convert 1.0.4\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/pop-and-convert\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2024-03-07T07:24:48+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.10.0\n"
+"X-Domain: pop-and-convert\n"
+
+#. Plugin Name of the plugin
+#. Author of the plugin
+#: pop-and-convert.php
+#: includes/class-plugin.php:168
+#: includes/class-plugin.php:169
+#: src/admin/postMeta/postMeta.js:22
+#: src/admin/postMeta/postMeta.js:51
+msgid "Pop and Convert"
+msgstr ""
+
+#. Plugin URI of the plugin
+#: pop-and-convert.php
+msgid "https://popandconvert.com/"
+msgstr ""
+
+#. Description of the plugin
+#: pop-and-convert.php
+msgid "Pop and Convert is a customizable pop-up and notification WordPress plugin to boost engagement, guide visitors, and generate leads."
+msgstr ""
+
+#. Author URI of the plugin
+#: pop-and-convert.php
+msgid "https://popandconvert.com/about/"
+msgstr ""
+
+#: includes/class-notification-rest-controller.php:145
+msgid "ID of the Notification"
+msgstr ""
+
+#: includes/class-notification-rest-controller.php:151
+msgid "Notification main title"
+msgstr ""
+
+#: includes/class-notification-rest-controller.php:156
+msgid "Notification title to be displayed"
+msgstr ""
+
+#: includes/class-notification-rest-controller.php:161
+msgid "Notification description"
+msgstr ""
+
+#: includes/class-notification-rest-controller.php:166
+msgid "Notification type"
+msgstr ""
+
+#: includes/class-notification-rest-controller.php:171
+msgid "Notification status"
+msgstr ""
+
+#: includes/class-notification-rest-controller.php:176
+msgid "Notification sticky layout"
+msgstr ""
+
+#: includes/class-notification-rest-controller.php:181
+msgid "Notification pop up layout"
+msgstr ""
+
+#: includes/class-notification-rest-controller.php:186
+#: includes/class-notification-rest-controller.php:197
+msgid "Notification button label"
+msgstr ""
+
+#: includes/class-notification-rest-controller.php:191
+msgid "Notification button link"
+msgstr ""
+
+#: includes/class-notification-rest-controller.php:202
+msgid "Notification button label rel attributes"
+msgstr ""
+
+#: includes/class-notification-rest-controller.php:207
+msgid "Notification trigger behavior"
+msgstr ""
+
+#: includes/class-notification-rest-controller.php:212
+msgid "Notification delay time"
+msgstr ""
+
+#: includes/class-notification-rest-controller.php:217
+msgid "Notification dismiss time"
+msgstr ""
+
+#: includes/class-notification-rest-controller.php:222
+msgid "Notification desktop visibility"
+msgstr ""
+
+#: includes/class-notification-rest-controller.php:227
+msgid "Notification mobile visibility"
+msgstr ""
+
+#: includes/class-notification-rest-controller.php:232
+msgid "Notification tablet visibility"
+msgstr ""
+
+#: includes/class-notification-rest-controller.php:237
+msgid "Notification location visibility"
+msgstr ""
+
+#: includes/class-notification-rest-controller.php:242
+msgid "Locations where Notification is to be displayed"
+msgstr ""
+
+#: includes/class-notification-rest-controller.php:247
+msgid "Posts or Pages where Notification is to be displayed"
+msgstr ""
+
+#: includes/class-notification-rest-controller.php:252
+msgid "Notification posts/pages ID"
+msgstr ""
+
+#: includes/class-notification-rest-controller.php:257
+msgid "Notification Image"
+msgstr ""
+
+#: includes/class-notification-rest-controller.php:262
+msgid "Views of the Notification"
+msgstr ""
+
+#: includes/class-notification-rest-controller.php:268
+msgid "Number of times the Notification button is clicked"
+msgstr ""
+
+#: includes/class-notification-rest-controller.php:274
+msgid "Priority of the Notification"
+msgstr ""
+
+#: includes/class-notification-rest-controller.php:280
+msgid "Notification custom styling option"
+msgstr ""
+
+#: includes/class-notification-rest-controller.php:285
+msgid "Notification desktop title font size"
+msgstr ""
+
+#: includes/class-notification-rest-controller.php:290
+msgid "Notification desktop description font size"
+msgstr ""
+
+#: includes/class-notification-rest-controller.php:295
+msgid "Notification mobile title font size"
+msgstr ""
+
+#: includes/class-notification-rest-controller.php:300
+msgid "Notification mobile desc font size"
+msgstr ""
+
+#: includes/class-notification-rest-controller.php:305
+msgid "Notification tablet desc font size"
+msgstr ""
+
+#: includes/class-notification-rest-controller.php:310
+msgid "Notification tablet description font size"
+msgstr ""
+
+#: includes/class-notification-rest-controller.php:315
+msgid "Notification button background color"
+msgstr ""
+
+#: includes/class-notification-rest-controller.php:320
+msgid "Notification button text color"
+msgstr ""
+
+#: includes/class-notification-rest-controller.php:325
+msgid "Notification button border radius"
+msgstr ""
+
+#: includes/class-notification-rest-controller.php:330
+msgid "Notification image border radius"
+msgstr ""
+
+#: includes/class-notification-rest-controller.php:335
+msgid "Notification box border radius for pop up layout"
+msgstr ""
+
+#: includes/class-notification-rest-controller.php:340
+msgid "Notification Image Size"
+msgstr ""
+
+#: includes/class-notification-rest-controller.php:345
+msgid "Notification image width"
+msgstr ""
+
+#: includes/class-notification-rest-controller.php:350
+msgid "Notification image height"
+msgstr ""
+
+#: includes/class-notification-rest-controller.php:355
+msgid "Notification box container width"
+msgstr ""
+
+#: includes/class-notification-rest-controller.php:360
+msgid "Whether to display Notification affiliation link"
+msgstr ""
+
+#: includes/class-notification-rest-controller.php:365
+msgid "Notification affiliation link"
+msgstr ""
+
+#: includes/class-notification-rest-controller.php:371
+msgid "Created at time"
+msgstr ""
+
+#: includes/class-notification-rest-controller.php:377
+msgid "Updated at time"
+msgstr ""
+
+#: includes/class-notification-rest-controller.php:383
+msgid "Capability of user who can create, edit and delete notifications."
+msgstr ""
+
+#: includes/class-notification-rest-controller.php:980
+msgid "Sorry, you are not allowed to manage Notifications."
+msgstr ""
+
+#: includes/class-plugin.php:179
+#: includes/class-plugin.php:180
+msgid "Add New"
+msgstr ""
+
+#: includes/class-plugin.php:188
+#: includes/class-plugin.php:189
+#: src/admin/app/pages/Notifications/ListNotifications/index.jsx:51
+msgid "All Notifications"
+msgstr ""
+
+#: includes/class-plugin.php:197
+#: includes/class-plugin.php:198
+#: src/admin/app/pages/Notifications/NotificationForm/index.js:19
+msgid "Settings"
+msgstr ""
+
+#: includes/extras.php:194
+#: includes/extras.php:284
+#: includes/extras.php:302
+msgid "Powered By"
+msgstr ""
+
+#: src/admin/app/components/ConfirmDialog/index.jsx:13
+msgid "Delete this file"
+msgstr ""
+
+#: src/admin/app/components/ConfirmDialog/index.jsx:14
+msgid "Are you sure you want to delete this file? This action cannot be undone."
+msgstr ""
+
+#: src/admin/app/components/ConfirmDialog/index.jsx:16
+msgid "No, Cancel"
+msgstr ""
+
+#: src/admin/app/components/ConfirmDialog/index.jsx:17
+msgid "Yes, Delete"
+msgstr ""
+
+#: src/admin/app/components/MultiSelect/index.jsx:88
+msgid "Search"
+msgstr ""
+
+#: src/admin/app/components/RichText/index.jsx:34
+msgid "Enter a description"
+msgstr ""
+
+#: src/admin/app/components/TablePagination/index.jsx:34
+msgid "Showing"
+msgstr ""
+
+#: src/admin/app/components/TablePagination/index.jsx:35
+msgid "of"
+msgstr ""
+
+#: src/admin/app/components/TablePagination/index.jsx:35
+msgid "Notifications"
+msgstr ""
+
+#: src/admin/app/components/TablePagination/index.jsx:39
+msgid "Notifications Per Page"
+msgstr ""
+
+#: src/admin/app/components/TablePagination/index.jsx:42
+msgid "10"
+msgstr ""
+
+#: src/admin/app/components/TablePagination/index.jsx:43
+msgid "20"
+msgstr ""
+
+#: src/admin/app/components/TablePagination/index.jsx:44
+msgid "50"
+msgstr ""
+
+#: src/admin/app/components/TablePagination/index.jsx:45
+msgid "100"
+msgstr ""
+
+#: src/admin/app/components/UpgradeLink/index.jsx:12
+msgid "Upgrade Now"
+msgstr ""
+
+#: src/admin/app/pages/Notifications/ListNotifications/index.jsx:63
+msgid "What are you looking for ..."
+msgstr ""
+
+#: src/admin/app/pages/Notifications/ListNotifications/index.jsx:71
+msgid "Add Notification"
+msgstr ""
+
+#: src/admin/app/pages/Notifications/ListNotifications/NotificationsTable.jsx:142
+msgid "Copying notification..."
+msgstr ""
+
+#: src/admin/app/pages/Notifications/ListNotifications/NotificationsTable.jsx:143
+msgid "Notification has been copied"
+msgstr ""
+
+#: src/admin/app/pages/Notifications/ListNotifications/NotificationsTable.jsx:144
+msgid "Failed to copy notification"
+msgstr ""
+
+#: src/admin/app/pages/Notifications/ListNotifications/NotificationsTable.jsx:153
+#: src/admin/app/pages/Notifications/ListNotifications/NotificationsTable.jsx:184
+msgid "Deleteing Notification..."
+msgstr ""
+
+#: src/admin/app/pages/Notifications/ListNotifications/NotificationsTable.jsx:154
+#: src/admin/app/pages/Notifications/ListNotifications/NotificationsTable.jsx:185
+msgid "Notification Deleted!."
+msgstr ""
+
+#: src/admin/app/pages/Notifications/ListNotifications/NotificationsTable.jsx:155
+#: src/admin/app/pages/Notifications/ListNotifications/NotificationsTable.jsx:186
+msgid "Failed to delete notification"
+msgstr ""
+
+#: src/admin/app/pages/Notifications/ListNotifications/NotificationsTable.jsx:167
+#: src/admin/app/pages/Notifications/NotificationForm/index.js:209
+msgid "Changing status..."
+msgstr ""
+
+#: src/admin/app/pages/Notifications/ListNotifications/NotificationsTable.jsx:169
+#: src/admin/app/pages/Notifications/NotificationForm/index.js:211
+msgid "Failed to change status"
+msgstr ""
+
+#: src/admin/app/pages/Notifications/ListNotifications/NotificationsTable.jsx:219
+#: src/admin/app/pages/Notifications/NotificationForm/index.js:275
+msgid "Notification Title"
+msgstr ""
+
+#: src/admin/app/pages/Notifications/ListNotifications/NotificationsTable.jsx:222
+msgid "Notification Type"
+msgstr ""
+
+#: src/admin/app/pages/Notifications/ListNotifications/NotificationsTable.jsx:230
+msgid "Views "
+msgstr ""
+
+#: src/admin/app/pages/Notifications/ListNotifications/NotificationsTable.jsx:237
+msgid "Views"
+msgstr ""
+
+#: src/admin/app/pages/Notifications/ListNotifications/NotificationsTable.jsx:248
+msgid "Clicks "
+msgstr ""
+
+#: src/admin/app/pages/Notifications/ListNotifications/NotificationsTable.jsx:255
+msgid "Clicks"
+msgstr ""
+
+#: src/admin/app/pages/Notifications/ListNotifications/NotificationsTable.jsx:261
+msgid "Status"
+msgstr ""
+
+#: src/admin/app/pages/Notifications/ListNotifications/NotificationsTable.jsx:264
+msgid "Action"
+msgstr ""
+
+#: src/admin/app/pages/Notifications/ListNotifications/NotificationsTable.jsx:304
+#: src/admin/app/pages/Notifications/NotificationForm/Content.jsx:51
+msgid "Overlay"
+msgstr ""
+
+#: src/admin/app/pages/Notifications/ListNotifications/NotificationsTable.jsx:304
+#: src/admin/app/pages/Notifications/NotificationForm/Content.jsx:46
+msgid "Sticky"
+msgstr ""
+
+#: src/admin/app/pages/Notifications/ListNotifications/NotificationsTable.jsx:313
+#: src/admin/app/pages/Notifications/ListNotifications/NotificationsTable.jsx:323
+msgid "0"
+msgstr ""
+
+#: src/admin/app/pages/Notifications/ListNotifications/NotificationsTable.jsx:387
+msgid "Bulk Action"
+msgstr ""
+
+#: src/admin/app/pages/Notifications/ListNotifications/NotificationsTable.jsx:388
+msgid "Delete Selected"
+msgstr ""
+
+#: src/admin/app/pages/Notifications/ListNotifications/NotificationsTable.jsx:391
+msgid "Apply Changes"
+msgstr ""
+
+#: src/admin/app/pages/Notifications/NotificationForm/Content.jsx:59
+msgid "Sticky layout 1"
+msgstr ""
+
+#: src/admin/app/pages/Notifications/NotificationForm/Content.jsx:64
+msgid "Sticky layout 2"
+msgstr ""
+
+#: src/admin/app/pages/Notifications/NotificationForm/Content.jsx:72
+msgid "Overlay layout 1"
+msgstr ""
+
+#: src/admin/app/pages/Notifications/NotificationForm/Content.jsx:78
+msgid "Overlay layout 2"
+msgstr ""
+
+#: src/admin/app/pages/Notifications/NotificationForm/Content.jsx:84
+msgid "Overlay layout 3"
+msgstr ""
+
+#: src/admin/app/pages/Notifications/NotificationForm/Content.jsx:99
+msgid "Content Settings"
+msgstr ""
+
+#: src/admin/app/pages/Notifications/NotificationForm/Content.jsx:102
+msgid "Type"
+msgstr ""
+
+#: src/admin/app/pages/Notifications/NotificationForm/Content.jsx:103
+msgid "Choose the desired type of notification."
+msgstr ""
+
+#: src/admin/app/pages/Notifications/NotificationForm/Content.jsx:120
+msgid "Layout"
+msgstr ""
+
+#: src/admin/app/pages/Notifications/NotificationForm/Content.jsx:121
+msgid "Choose the preferred layout for your notification."
+msgstr ""
+
+#: src/admin/app/pages/Notifications/NotificationForm/Content.jsx:136
+#: src/settings/Pages/Setting/General.jsx:49
+msgid "Upgrade to premium to access all the features"
+msgstr ""
+
+#: src/admin/app/pages/Notifications/NotificationForm/Content.jsx:141
+#: src/admin/app/pages/Notifications/NotificationForm/Preview.jsx:52
+msgid "Title"
+msgstr ""
+
+#: src/admin/app/pages/Notifications/NotificationForm/Content.jsx:142
+msgid "Add the title for your notification."
+msgstr ""
+
+#: src/admin/app/pages/Notifications/NotificationForm/Content.jsx:147
+msgid "Title Here"
+msgstr ""
+
+#: src/admin/app/pages/Notifications/NotificationForm/Content.jsx:152
+msgid "Description"
+msgstr ""
+
+#: src/admin/app/pages/Notifications/NotificationForm/Content.jsx:153
+msgid "Add the description for your notification."
+msgstr ""
+
+#: src/admin/app/pages/Notifications/NotificationForm/Content.jsx:163
+msgid "Image"
+msgstr ""
+
+#: src/admin/app/pages/Notifications/NotificationForm/Content.jsx:164
+msgid "Choose the suitable image for your notification."
+msgstr ""
+
+#: src/admin/app/pages/Notifications/NotificationForm/Content.jsx:175
+msgid "Click to upload"
+msgstr ""
+
+#: src/admin/app/pages/Notifications/NotificationForm/Content.jsx:177
+msgid "PNG, JPG, WEBP or GIF"
+msgstr ""
+
+#: src/admin/app/pages/Notifications/NotificationForm/Content.jsx:182
+msgid "Selected Image"
+msgstr ""
+
+#: src/admin/app/pages/Notifications/NotificationForm/Content.jsx:196
+msgid "Button Settings"
+msgstr ""
+
+#: src/admin/app/pages/Notifications/NotificationForm/Content.jsx:199
+msgid "Label"
+msgstr ""
+
+#: src/admin/app/pages/Notifications/NotificationForm/Content.jsx:200
+msgid "Add the label for your notification button."
+msgstr ""
+
+#: src/admin/app/pages/Notifications/NotificationForm/Content.jsx:210
+msgid "Link"
+msgstr ""
+
+#: src/admin/app/pages/Notifications/NotificationForm/Content.jsx:211
+msgid "Add the link for your notification button."
+msgstr ""
+
+#: src/admin/app/pages/Notifications/NotificationForm/Content.jsx:216
+msgid "https://example.com"
+msgstr ""
+
+#: src/admin/app/pages/Notifications/NotificationForm/Content.jsx:221
+msgid "rel attribute"
+msgstr ""
+
+#: src/admin/app/pages/Notifications/NotificationForm/Content.jsx:222
+msgid "Add the rel attribute for the link of your button."
+msgstr ""
+
+#: src/admin/app/pages/Notifications/NotificationForm/Content.jsx:232
+msgid "Open in new tab"
+msgstr ""
+
+#: src/admin/app/pages/Notifications/NotificationForm/Content.jsx:233
+msgid "Enable this to open the click in a new browser window."
+msgstr ""
+
+#: src/admin/app/pages/Notifications/NotificationForm/Design.jsx:22
+#: src/settings/Pages/Setting/Design.jsx:68
+msgid "Default"
+msgstr ""
+
+#: src/admin/app/pages/Notifications/NotificationForm/Design.jsx:27
+#: src/settings/Pages/Setting/Design.jsx:73
+msgid "Full"
+msgstr ""
+
+#: src/admin/app/pages/Notifications/NotificationForm/Design.jsx:96
+msgid "Enable Custom Styling"
+msgstr ""
+
+#: src/admin/app/pages/Notifications/NotificationForm/Design.jsx:97
+msgid "Enable this option to override the Global customization settings."
+msgstr ""
+
+#: src/admin/app/pages/Notifications/NotificationForm/Design.jsx:120
+#: src/settings/Pages/Setting/Design.jsx:93
+msgid "Container Style"
+msgstr ""
+
+#: src/admin/app/pages/Notifications/NotificationForm/Design.jsx:123
+msgid "Container Width"
+msgstr ""
+
+#: src/admin/app/pages/Notifications/NotificationForm/Design.jsx:124
+msgid "Set the width for your notification. Leave it unset to inherit the default width."
+msgstr ""
+
+#: src/admin/app/pages/Notifications/NotificationForm/Design.jsx:129
+msgid "Container width"
+msgstr ""
+
+#: src/admin/app/pages/Notifications/NotificationForm/Design.jsx:134
+#: src/settings/Pages/Setting/Design.jsx:96
+msgid "Box Border Radius"
+msgstr ""
+
+#: src/admin/app/pages/Notifications/NotificationForm/Design.jsx:135
+msgid "Set the border radius for your notification."
+msgstr ""
+
+#: src/admin/app/pages/Notifications/NotificationForm/Design.jsx:140
+#: src/admin/app/pages/Notifications/NotificationForm/Design.jsx:220
+#: src/admin/app/pages/Notifications/NotificationForm/Design.jsx:251
+#: src/settings/Pages/Setting/Design.jsx:102
+#: src/settings/Pages/Setting/Design.jsx:201
+#: src/settings/Pages/Setting/Design.jsx:232
+msgid "Border size"
+msgstr ""
+
+#: src/admin/app/pages/Notifications/NotificationForm/Design.jsx:146
+#: src/settings/Pages/Setting/Design.jsx:108
+msgid "Content Style"
+msgstr ""
+
+#: src/admin/app/pages/Notifications/NotificationForm/Design.jsx:149
+#: src/settings/Pages/Setting/Design.jsx:112
+msgid "Title Font Size"
+msgstr ""
+
+#: src/admin/app/pages/Notifications/NotificationForm/Design.jsx:160
+#: src/admin/app/pages/Notifications/NotificationForm/Design.jsx:182
+#: src/settings/Pages/Setting/Design.jsx:126
+#: src/settings/Pages/Setting/Design.jsx:151
+msgid "Desktop Font size"
+msgstr ""
+
+#: src/admin/app/pages/Notifications/NotificationForm/Design.jsx:162
+#: src/admin/app/pages/Notifications/NotificationForm/Design.jsx:184
+#: src/settings/Pages/Setting/Design.jsx:128
+#: src/settings/Pages/Setting/Design.jsx:153
+msgid "Tablet Font size"
+msgstr ""
+
+#: src/admin/app/pages/Notifications/NotificationForm/Design.jsx:164
+#: src/admin/app/pages/Notifications/NotificationForm/Design.jsx:186
+#: src/settings/Pages/Setting/Design.jsx:130
+#: src/settings/Pages/Setting/Design.jsx:155
+msgid "Mobile Font size"
+msgstr ""
+
+#: src/admin/app/pages/Notifications/NotificationForm/Design.jsx:171
+#: src/settings/Pages/Setting/Design.jsx:137
+msgid "Description Font Size"
+msgstr ""
+
+#: src/admin/app/pages/Notifications/NotificationForm/Design.jsx:194
+#: src/settings/Pages/Setting/Design.jsx:163
+msgid "Button Style"
+msgstr ""
+
+#: src/admin/app/pages/Notifications/NotificationForm/Design.jsx:197
+#: src/settings/Pages/Setting/Design.jsx:167
+msgid "Button Background Color"
+msgstr ""
+
+#: src/admin/app/pages/Notifications/NotificationForm/Design.jsx:207
+#: src/settings/Pages/Setting/Design.jsx:182
+msgid "Button Text Color"
+msgstr ""
+
+#: src/admin/app/pages/Notifications/NotificationForm/Design.jsx:217
+#: src/settings/Pages/Setting/Design.jsx:195
+msgid "Button Border Radius"
+msgstr ""
+
+#: src/admin/app/pages/Notifications/NotificationForm/Design.jsx:225
+#: src/settings/Pages/Setting/Design.jsx:206
+msgid "Image Style"
+msgstr ""
+
+#: src/admin/app/pages/Notifications/NotificationForm/Design.jsx:228
+#: src/settings/Pages/Setting/Design.jsx:209
+msgid "Image Size"
+msgstr ""
+
+#: src/admin/app/pages/Notifications/NotificationForm/Design.jsx:229
+#: src/settings/Pages/Setting/Design.jsx:210
+msgid "Choose the size of the image."
+msgstr ""
+
+#: src/admin/app/pages/Notifications/NotificationForm/Design.jsx:245
+#: src/settings/Pages/Setting/Design.jsx:226
+msgid "Image Border Radius"
+msgstr ""
+
+#: src/admin/app/pages/Notifications/NotificationForm/Design.jsx:246
+msgid "Set the border radius for your notification image. It works for only certain layouts."
+msgstr ""
+
+#: src/admin/app/pages/Notifications/NotificationForm/Design.jsx:256
+#: src/settings/Pages/Setting/Design.jsx:237
+msgid "Image Width"
+msgstr ""
+
+#: src/admin/app/pages/Notifications/NotificationForm/Design.jsx:257
+msgid "Override the default image width."
+msgstr ""
+
+#: src/admin/app/pages/Notifications/NotificationForm/Design.jsx:262
+#: src/settings/Pages/Setting/Design.jsx:243
+msgid "Width"
+msgstr ""
+
+#: src/admin/app/pages/Notifications/NotificationForm/Design.jsx:267
+#: src/settings/Pages/Setting/Design.jsx:248
+msgid "Image Height"
+msgstr ""
+
+#: src/admin/app/pages/Notifications/NotificationForm/Design.jsx:268
+msgid "Override the default image height."
+msgstr ""
+
+#: src/admin/app/pages/Notifications/NotificationForm/Design.jsx:273
+#: src/settings/Pages/Setting/Design.jsx:254
+msgid "Height"
+msgstr ""
+
+#: src/admin/app/pages/Notifications/NotificationForm/index.js:18
+msgid "Content"
+msgstr ""
+
+#: src/admin/app/pages/Notifications/NotificationForm/index.js:20
+#: src/settings/Pages/Setting/index.js:15
+msgid "Customization"
+msgstr ""
+
+#: src/admin/app/pages/Notifications/NotificationForm/index.js:21
+msgid "Preview"
+msgstr ""
+
+#: src/admin/app/pages/Notifications/NotificationForm/index.js:210
+msgid "Notification has been updated successfully."
+msgstr ""
+
+#: src/admin/app/pages/Notifications/NotificationForm/index.js:222
+msgid "Publishing notification"
+msgstr ""
+
+#: src/admin/app/pages/Notifications/NotificationForm/index.js:223
+msgid "Notification has been published successfully."
+msgstr ""
+
+#: src/admin/app/pages/Notifications/NotificationForm/index.js:224
+msgid "Failed to publish notification"
+msgstr ""
+
+#: src/admin/app/pages/Notifications/NotificationForm/index.js:234
+msgid "Unpublishing notification"
+msgstr ""
+
+#: src/admin/app/pages/Notifications/NotificationForm/index.js:235
+msgid "Notification has been saved as Draft."
+msgstr ""
+
+#: src/admin/app/pages/Notifications/NotificationForm/index.js:236
+msgid "Failed to draft notification"
+msgstr ""
+
+#: src/admin/app/pages/Notifications/NotificationForm/index.js:247
+msgid "Back"
+msgstr ""
+
+#: src/admin/app/pages/Notifications/NotificationForm/index.js:257
+msgid "Save as"
+msgstr ""
+
+#: src/admin/app/pages/Notifications/NotificationForm/index.js:257
+msgid "Switch to"
+msgstr ""
+
+#: src/admin/app/pages/Notifications/NotificationForm/index.js:257
+msgid "Draft"
+msgstr ""
+
+#: src/admin/app/pages/Notifications/NotificationForm/index.js:264
+msgid "Publish"
+msgstr ""
+
+#: src/admin/app/pages/Notifications/NotificationForm/index.js:264
+msgid "Update"
+msgstr ""
+
+#: src/admin/app/pages/Notifications/NotificationForm/Preview.jsx:47
+msgid "preview"
+msgstr ""
+
+#: src/admin/app/pages/Notifications/NotificationForm/Preview.jsx:54
+msgid "description"
+msgstr ""
+
+#: src/admin/app/pages/Notifications/NotificationForm/Preview.jsx:57
+msgid "Button"
+msgstr ""
+
+#: src/admin/app/pages/Notifications/NotificationForm/Setting.jsx:58
+msgid "Display Rules"
+msgstr ""
+
+#: src/admin/app/pages/Notifications/NotificationForm/Setting.jsx:61
+msgid "Device Visibility"
+msgstr ""
+
+#: src/admin/app/pages/Notifications/NotificationForm/Setting.jsx:62
+msgid "Choose the device where you want to display the notification."
+msgstr ""
+
+#: src/admin/app/pages/Notifications/NotificationForm/Setting.jsx:69
+msgid "Desktop"
+msgstr ""
+
+#: src/admin/app/pages/Notifications/NotificationForm/Setting.jsx:73
+msgid "Tablet"
+msgstr ""
+
+#: src/admin/app/pages/Notifications/NotificationForm/Setting.jsx:77
+msgid "Mobile"
+msgstr ""
+
+#: src/admin/app/pages/Notifications/NotificationForm/Setting.jsx:84
+msgid "Location"
+msgstr ""
+
+#: src/admin/app/pages/Notifications/NotificationForm/Setting.jsx:85
+msgid "Choose the preferred location for your notification."
+msgstr ""
+
+#: src/admin/app/pages/Notifications/NotificationForm/Setting.jsx:92
+msgid "Entire Website"
+msgstr ""
+
+#: src/admin/app/pages/Notifications/NotificationForm/Setting.jsx:93
+msgid "Show on Selected"
+msgstr ""
+
+#: src/admin/app/pages/Notifications/NotificationForm/Setting.jsx:94
+msgid "Hide on Selected"
+msgstr ""
+
+#: src/admin/app/pages/Notifications/NotificationForm/Setting.jsx:98
+msgid "Locations"
+msgstr ""
+
+#: src/admin/app/pages/Notifications/NotificationForm/Setting.jsx:105
+msgid "Select Posts or Pages"
+msgstr ""
+
+#: src/admin/app/pages/Notifications/NotificationForm/Setting.jsx:109
+msgid "Post/Page ID"
+msgstr ""
+
+#: src/admin/app/pages/Notifications/NotificationForm/Setting.jsx:110
+msgid "You can set the post or page ID"
+msgstr ""
+
+#: src/admin/app/pages/Notifications/NotificationForm/Setting.jsx:115
+msgid "Example: 1,35,45"
+msgstr ""
+
+#: src/admin/app/pages/Notifications/NotificationForm/Setting.jsx:120
+msgid "Refer to %sthis guide%s on how to find the ID."
+msgstr ""
+
+#: src/admin/app/pages/Notifications/NotificationForm/Setting.jsx:137
+msgid "Trigger"
+msgstr ""
+
+#: src/admin/app/pages/Notifications/NotificationForm/Setting.jsx:138
+msgid "Choose the trigger to initiate your notification."
+msgstr ""
+
+#: src/admin/app/pages/Notifications/NotificationForm/Setting.jsx:144
+msgid "On Page Load"
+msgstr ""
+
+#: src/admin/app/pages/Notifications/NotificationForm/Setting.jsx:145
+msgid "On Page Exit Intent"
+msgstr ""
+
+#: src/admin/app/pages/Notifications/NotificationForm/Setting.jsx:145
+msgid "On Page Exit Intent (Pro Version)"
+msgstr ""
+
+#: src/admin/app/pages/Notifications/NotificationForm/Setting.jsx:151
+msgid "Notification Delay"
+msgstr ""
+
+#: src/admin/app/pages/Notifications/NotificationForm/Setting.jsx:152
+msgid "Choose the time after which the notification should appear."
+msgstr ""
+
+#: src/admin/app/pages/Notifications/NotificationForm/Setting.jsx:157
+#: src/settings/Pages/Setting/General.jsx:63
+msgid "Time Delay"
+msgstr ""
+
+#: src/admin/app/pages/Notifications/NotificationForm/Setting.jsx:166
+msgid "Priority"
+msgstr ""
+
+#: src/admin/app/pages/Notifications/NotificationForm/Setting.jsx:167
+msgid "Choose the priority for your notification. The highest priority notification will only appear if multiple notifications are set for the same location."
+msgstr ""
+
+#: src/admin/app/pages/Notifications/NotificationForm/Setting.jsx:172
+msgid "Value Here"
+msgstr ""
+
+#: src/admin/app/pages/Welcome/index.js:12
+#: src/admin/app/ui/Navbar.jsx:10
+msgid "Documentation"
+msgstr ""
+
+#: src/admin/app/pages/Welcome/index.js:13
+msgid "Whether you're just starting out or looking to explore advanced features, our guides provide step-by-step instructions to ensure you make the most of our plugin."
+msgstr ""
+
+#: src/admin/app/pages/Welcome/index.js:14
+msgid "Explore Documentation"
+msgstr ""
+
+#: src/admin/app/pages/Welcome/index.js:17
+msgid "Support"
+msgstr ""
+
+#: src/admin/app/pages/Welcome/index.js:18
+msgid "Reach out to our dedicated support team for guidance, solutions, and prompt assistance with any issues or queries related to the plugin."
+msgstr ""
+
+#: src/admin/app/pages/Welcome/index.js:19
+msgid "Contact Support Team"
+msgstr ""
+
+#: src/admin/app/pages/Welcome/index.js:22
+msgid "Video Tutorial"
+msgstr ""
+
+#: src/admin/app/pages/Welcome/index.js:23
+msgid "Explore our video tutorials for step-by-step guidance on the plugin, covering basics to advanced features for optimal user experience."
+msgstr ""
+
+#: src/admin/app/pages/Welcome/index.js:24
+msgid "Coming Soon"
+msgstr ""
+
+#: src/admin/app/pages/Welcome/Introduction.jsx:9
+msgid "Welcome to Pop and Convert"
+msgstr ""
+
+#: src/admin/app/pages/Welcome/Introduction.jsx:10
+msgid "The Pop and Convert plugin is designed to enhance website engagement by offering customizable notifications. It allows users to craft dynamic alerts, tailor designs to their brand, set post/page-specific notifications, and utilize advanced display conditions."
+msgstr ""
+
+#: src/admin/app/pages/Welcome/Introduction.jsx:12
+msgid "Create New Notification"
+msgstr ""
+
+#: src/admin/app/pages/Welcome/Introduction.jsx:13
+msgid "Show All"
+msgstr ""
+
+#: src/admin/app/ui/Navbar.jsx:8
+msgid "Visit Website"
+msgstr ""
+
+#: src/admin/app/ui/Navbar.jsx:9
+msgid "Contact Support"
+msgstr ""
+
+#: src/admin/postMeta/MainInner.js:14
+msgid "Upgrade to premium with active license to access all the features."
+msgstr ""
+
+#: src/settings/Pages/Setting/Design.jsx:97
+#: src/settings/Pages/Setting/Design.jsx:196
+#: src/settings/Pages/Setting/Design.jsx:227
+msgid "Choose Border Radius Size"
+msgstr ""
+
+#: src/settings/Pages/Setting/Design.jsx:113
+msgid "Enter Title Font Size"
+msgstr ""
+
+#: src/settings/Pages/Setting/Design.jsx:138
+msgid "Enter Description Font Size"
+msgstr ""
+
+#: src/settings/Pages/Setting/Design.jsx:168
+msgid "Choose Button Background Color"
+msgstr ""
+
+#: src/settings/Pages/Setting/Design.jsx:183
+msgid "Choose Button Text Color"
+msgstr ""
+
+#: src/settings/Pages/Setting/Design.jsx:238
+#: src/settings/Pages/Setting/Design.jsx:249
+msgid "Input Image Width and Height Size"
+msgstr ""
+
+#: src/settings/Pages/Setting/General.jsx:57
+msgid "Dismiss Duration"
+msgstr ""
+
+#: src/settings/Pages/Setting/General.jsx:58
+msgid "Set the time for disabling the notification from being displayed after it is dismissed."
+msgstr ""
+
+#: src/settings/Pages/Setting/General.jsx:69
+msgid "Display Credits"
+msgstr ""
+
+#: src/settings/Pages/Setting/General.jsx:70
+msgid "You can display the credit by adding your affiliate link."
+msgstr ""
+
+#: src/settings/Pages/Setting/General.jsx:86
+msgid "https://popandconvert.com"
+msgstr ""
+
+#: src/settings/Pages/Setting/General.jsx:91
+msgid "Sign up for %sour affiliate program%s to add your link to the credit."
+msgstr ""
+
+#: src/settings/Pages/Setting/index.js:14
+msgid "General"
+msgstr ""
+
+#: src/settings/Pages/Setting/index.js:18
+msgid "Role Management"
+msgstr ""
+
+#: src/settings/Pages/Setting/index.js:19
+msgid "License Activation"
+msgstr ""
+
+#: src/settings/Pages/Setting/index.js:96
+msgid "Saving global settings"
+msgstr ""
+
+#: src/settings/Pages/Setting/index.js:97
+msgid "Global settings saved successfully."
+msgstr ""
+
+#: src/settings/Pages/Setting/index.js:98
+msgid "Failed to save gloabl settings"
+msgstr ""
+
+#: src/settings/Pages/Setting/Role.jsx:15
+msgid "Role Capability Settings"
+msgstr ""
+
+#: src/settings/Pages/Setting/Role.jsx:18
+msgid "Manage Notifications"
+msgstr ""
+
+#: src/settings/Pages/Setting/Role.jsx:19
+msgid "Choose roles of users who can manage notifications."
+msgstr ""
+
+#: src/settings/Pages/Setting/SaveButton.jsx:5
+msgid "Save Changes"
+msgstr ""
